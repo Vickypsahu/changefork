@@ -48,6 +48,8 @@ public class RemoveCharDup {
 	        }
 	    }
 	    System.out.println(result);
+	    System.out.println(result);
+	    
 	}
 		
 	}
